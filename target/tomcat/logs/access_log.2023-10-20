@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:18:13:25 +0800] "GET / HTTP/1.1" 200 3364 http-bio-8888-exec-1 42
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:18:13:25 +0800] "GET /static/images/bg.jpg HTTP/1.1" 200 403161 http-bio-8888-exec-2 7
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:18:13:25 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8888-exec-3 2
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:18:13:43 +0800] "POST /login HTTP/1.1" 200 71 http-bio-8888-exec-4 379
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:18:13:45 +0800] "GET /main.jsp HTTP/1.1" 200 8997 http-bio-8888-exec-5 9
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:18:13:45 +0800] "GET /static/images/logo.png HTTP/1.1" 200 13776 http-bio-8888-exec-6 6
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:18:13:45 +0800] "GET /static/images/QQ.jpg HTTP/1.1" 200 50800 http-bio-8888-exec-7 5
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:18:13:45 +0800] "GET /static/images/u1.png HTTP/1.1" 200 1330 http-bio-8888-exec-9 2
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:18:13:45 +0800] "GET /static/images/u2.png HTTP/1.1" 200 528 http-bio-8888-exec-8 2
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:18:13:45 +0800] "GET /home.jsp HTTP/1.1" 200 132 http-bio-8888-exec-8 4
